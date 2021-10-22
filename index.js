@@ -1,6 +1,6 @@
 const linksSocialMedia = {
   github: 'guix7',
-  youtube: 'Guilherme Oliveira',
+  youtube: 'youtube',
   facebook: 'facebook',
   instagram: 'gui123_j',
   twitter: 'oliveira_guix'
